@@ -1,0 +1,14 @@
+[
+  {
+	"copy-from": "vault",
+    "id": "vault",
+    "type": "item_group",
+    "extend": { "items": [ [ "rf_food_keeper", 5 ] ] }
+  },
+  {
+	"copy-from": "consumer_electronics",
+    "id": "consumer_electronics",
+    "type": "item_group",
+    "extend": { "items": [ [ "rf_food_keeper", 1 ] ] }
+  }
+]
